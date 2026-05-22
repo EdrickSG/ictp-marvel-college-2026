@@ -84,5 +84,5 @@ tutorials.
 
 ### A GW calculation with Yambo
 
-1. [Quasiparticle corrections within the Hartree-Fock approximation]((https://yambo-code.github.io/yambo-wiki/tutorials/QP/HF_on_hBN.html#hf-on-hbn-tutorial-target)
+1. [Quasiparticle corrections within the Hartree-Fock approximation](https://yambo-code.github.io/yambo-wiki/tutorials/QP/HF_on_hBN.html#hf-on-hbn-tutorial-target)
 2. [A full GW calculation with Yambo](https://yambo-code.github.io/yambo-wiki/tutorials/QP/GW_on_hBN.html#gw-on-hbn-tutorial-target)
