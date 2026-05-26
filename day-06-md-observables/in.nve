@@ -19,7 +19,7 @@ pair_coeff 1 1 1.0 1.0
 velocity all create ${T0} 12345 mom yes rot yes dist gaussian
 
 # 4) Monitoring
-variable target_phase string ???   # sufix in the data
+variable target_phase string ???   # suffix in the data
 
 thermo 100
 thermo_style custom step temp etotal pe ke
